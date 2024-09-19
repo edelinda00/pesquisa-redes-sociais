@@ -7,7 +7,18 @@
 <title>Relatório Redes Sociais</title>
 </head>
 <body>
-    <header></header>
+    <header>
+        <h1>Relatório Pesquisa Redes Sociais</h1>
+        <h2>CEC Duque de Caxias</h2>
+        <h2>Antônio Olinto - PR</h2>
+
+        <nav>
+            <a href=”index.html”>Mundo</a>
+            <a href=”#”>Minha escola</a>
+            </nav>
+            
+        </header>
+    </header>
     <main></main>
     <footer></footer>
 </body>
